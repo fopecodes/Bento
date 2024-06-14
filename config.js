@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: '',
+	name: 'fope',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
